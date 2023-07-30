@@ -5,10 +5,10 @@ Jenny Shin
 
 Analysis result files:   
 Starter_files > ETL_Mini_Project_MJohnson_JShin.ipynb (Jupyter Notebook)  
-Resources > campaign.csv
-Resources > category.csv
-Resources > contacts.csv
-Resources > subcategory.csv
+Resources > campaign.csv   
+Resources > category.csv   
+Resources > contacts.csv   
+Resources > subcategory.csv   
 
 
 References:  
