@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-Michaela Johnson
+Michaela Johnson, 
 Jenny Shin
 
 Analysis result files:   
