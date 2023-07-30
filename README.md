@@ -9,7 +9,12 @@ Resources > campaign.csv
 Resources > category.csv   
 Resources > contacts.csv   
 Resources > subcategory.csv   
-PostgreSQL > 
+PostgreSQL > campaign_sql_table.png (Select statement result)   
+PostgreSQL > category_sql_table.png (Select statement result)    
+PostgreSQL > contacts_sql_table.png (Select statement result)    
+PostgreSQL > subcategory_sql_table.png (Select statement result)  
+PostgreSQL > crowdfunding_db_schema.sql (database schema)
+
 
 References:  
 Class activities  
