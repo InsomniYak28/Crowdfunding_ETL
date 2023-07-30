@@ -9,7 +9,7 @@ Resources > campaign.csv
 Resources > category.csv   
 Resources > contacts.csv   
 Resources > subcategory.csv   
-
+PostgreSQL > 
 
 References:  
 Class activities  
